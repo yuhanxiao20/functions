@@ -91,7 +91,7 @@ Please run this yourself to check for any updates on how to cite
 **functions**.
 
 ``` r
-print(citation('functions'), bibtex = TRUE)
+print(citation("functions"), bibtex = TRUE)
 #> To cite package 'functions' in publications use:
 #> 
 #>   yuhanxiao20 (2023). _functions_. doi:10.18129/B9.bioc.functions
